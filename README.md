@@ -223,6 +223,6 @@ We do this for each hand and voila! We have our clock, ticking away.
 
 ## The End of Time
 
-Did you enjoy this? "Like" the repo, [favorite the guide](), try to replicate it yourself, join Wes Bos' Javascript30 challenge or course.
+Did you enjoy this? "Like" the repo, [favorite the guide](https://readme-c72e5.web.app/guide/2sgbhEZoR3diydSRZxut), try to replicate it yourself, join Wes Bos' Javascript30 challenge or course.
 
 Check out my [personal website](https://JollyRen.github.io), [LinkedIn](https://www.linkedin.com/in/jeremy-daniel-rogers/), or [GitHub](https://github.com/JollyRen) page for more like this.
