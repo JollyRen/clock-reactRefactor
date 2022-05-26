@@ -1,55 +1,19 @@
-# Nano React App Default Javascript Template
+# Clock Nano-React-App Refactor
 
-The default template project for [nano-react-app](https://github.com/nano-react-app/nano-react-app).
+## The Premise
 
-- `npm start` — This will spawn a development server with a default port of `3000`.
-- `npm run build` — This will output a production build in the `dist` directory.
+First off, I want to point out that this project is from the 30 Javascript apps in 30 days challenge / course from Wes Bos which you can [find here](https://javascript30.com/).
 
-## Custom port
+While Wes Bos' original project is a very straightforward and concise app, I'm on a journey to go through the course using nano-react-app or create-react-app to convert these usually small projects into a framework.
 
-You can use the `-p` flag to specify a port for development. To do this, you can either run `npm start` with an additional flag:
+Yes, it's impractical. No, the projects don't warrant the overhead of all the boilerplate. Yes, I will likely go back through and do the projects in MUI or Tailwind CSS for practice.
 
-```
-npm start -- --port 1234
-```
+And that's the crux of it. Practice. It's practice while I'm between projects and work. ABC and keep sharp!
 
-Or edit the `start` script directly:
+Now onto the project!
 
-```
-vite --port 1234
-```
+## The Project
 
-## Adding styles
-
-You can use CSS files with simple ES2015 `import` statements anywhere in your Javascript:
-
-```js
-import "./index.css";
-```
-
-## Babel transforms
-
-The Babel preset [babel-preset-nano-react-app](https://github.com/nano-react-app/babel-preset-nano-react-app) is used to support the same transforms that Create React App supports.
-
-The Babel configuration lives inside `package.json` and will override an external `.babelrc` file, so if you want to use `.babelrc` remember to delete the `babel` property inside `package.json`.
-
-
-## Deploy to GitHub Pages
-
-You can also deploy your project using GitHub pages.
-First install the `gh-pages` [package](https://github.com/tschaub/gh-pages):
-
-`npm i -D gh-pages`
-
-Use the following scripts for deployment:
-
-```
-"scripts": {
-  "start": "vite",
-  "build": "vite build",
-  "predeploy": "rm -rf dist && vite build",
-  "deploy": "gh-pages -d dist"
-},
-```
-
-Then follow the normal procedure in GitHub Pages and select the `gh-pages` branch.
+This project focuses around two main parts:
+- Animation using class changes
+- playing audio on key presses

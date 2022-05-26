@@ -1,8 +1,15 @@
-import React from "react";
+import React, { useState, useEffect, useContext } from 'react'
+import { Min, Hour, Second } from './components'
+import { NowContext } from './NowContextProvider.jsx'
 
-export default () => (
-  <>
-    <h1>Welcome to React Vite Micro App!</h1>
-    <p>Hard to get more minimal than this React app.</p>
-  </>
-);
+export default () => {
+  return (
+    <div className="clock">
+      <div className="clock-face">
+        <Min />
+        <Hour />
+        <Second />
+      </div>
+    </div>
+  )
+}
