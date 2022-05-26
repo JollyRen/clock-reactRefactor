@@ -1,6 +1,5 @@
-import React, { useState, useEffect, useContext } from 'react'
+import React from 'react'
 import { Min, Hour, Second } from './components'
-import { NowContext } from './NowContextProvider.jsx'
 
 export default () => {
   return (
