@@ -1,13 +1,13 @@
 # Clock Nano-React-App Refactor
 
-- [The Premise]()
-- [The Project]()
-- [Ready! Set! Go!]()
-- [It's All Relative]()
-- ["We're Going Back... To the Future!"]()
-  - [Quantumly Entangled]()
+- [The Premise](https://github.com/JollyRen/clock-reactRefactor/tree/gh-pages#the-premise)
+- [The Project](https://github.com/JollyRen/clock-reactRefactor/tree/gh-pages#the-project)
+- [Ready! Set! Go!](https://github.com/JollyRen/clock-reactRefactor/tree/gh-pages#ready-set-go)
+- [It's All Relative](https://github.com/JollyRen/clock-reactRefactor/tree/gh-pages#its-all-relative)
+- ["We're Going Back... To the Future!"](https://github.com/JollyRen/clock-reactRefactor/tree/gh-pages#were-going-back-to-the-future)
+  - [Quantumly Entangled](https://github.com/JollyRen/clock-reactRefactor/tree/gh-pages#quantumly-entangled-nodes)
 
-- [The End of Time]()
+- [The End of Time](https://github.com/JollyRen/clock-reactRefactor/tree/gh-pages#the-end-of-time)
 
 ## The Premise
 
